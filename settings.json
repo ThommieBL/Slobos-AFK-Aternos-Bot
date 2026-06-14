@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lokaal13.aternos.me
-",
+    "ip": "Lokaal13.aternos.me",
     "port": 40743,
     "version": "",
     "try-creative": false
